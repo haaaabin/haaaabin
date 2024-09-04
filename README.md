@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Habin😊&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/haaaabin?pet-id=1" width="1000" height="120"/>
+</a>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
@@ -15,9 +18,5 @@
 ![Habin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haaaabin&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=habin7181)](https://solved.ac/habin7181)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/haaaabin?pet-id=1" width="1000" height="120"/>
-</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
