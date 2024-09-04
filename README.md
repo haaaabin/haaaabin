@@ -12,11 +12,13 @@
 <p align="center">
 <a href="https://habbn-unitystudy.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://habbn-unitystudy.tistory.com/"/</a>  <a href="mailto:chabin7181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chabin7181@gmail.com"/></a>
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaaaabin&count_bg=%23F6C4BA&title_bg=%23F89595&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+</br>
+</br>
 
 ![Habin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haaaabin&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=habin7181)](https://solved.ac/habin7181)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaaaabin&count_bg=%23F6C4BA&title_bg=%23F89595&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
