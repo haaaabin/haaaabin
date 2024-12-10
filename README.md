@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Habin😊&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50)
 
 ## :pushpin: Intro
-
-매 순간 몰입과 도전의 자세로 임하며, 누구에게나 필요한 사람이 되고자 하기에 새로운 기술과 트렌드를 익혀 꾸준히 성장하기를 노력하는 개발자 최하빈입니다.
+<p align="center">
+매 순간 몰입과 도전의 자세로 임하며, 누구에게나 필요한 사람이 되고자 하기에 
+  <br> 새로운 기술과 트렌드를 익혀 꾸준히 성장하기를 노력하는 개발자 최하빈입니다.
 
 </br>
 
