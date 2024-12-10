@@ -53,7 +53,7 @@
 >  - 사용자 경험을 고려하여 전반적인 <b>인게임/아웃게임 UI</b> 개발
 >  - 플레이어의 체크포인트 및 거리 데이터를 기반으로 [실시간 랭킹 시스템 구현](https://github.com/haaaabin/Sleighers_Client/blob/e87a9df5fef953412336d99781b7e7ba34dd04cd/Assets/Scripts/InGame/Ranking/RankManager.cs#L6-L183) 
 >  - [보간/외삽을 사용한 유저 간 상태 동기화](https://github.com/haaaabin/Sleighers_Client/blob/e87a9df5fef953412336d99781b7e7ba34dd04cd/Assets/Scripts/InGame/Sled/Player.cs#L271-L298) 로 네트워크 지연을 최소화하고 원활한 플레이 경험 제공
->  - <b>프로파일러를 사용한 CPU 사용률 분석</b>을 통해 카메라 렌더링, GUI, 프로세스 프로세싱, 파티클 시스템, 퍼포먼스 스파크 최적화로 클라이언트 프레임 레이트 20FPS -> 40FPS 향상
+>  - <b>프로파일러를 사용한 CPU 사용률 분석</b>을 통해 카메라 렌더링, GUI, 프로세스 프로세싱, 파티클 시스템, 퍼포먼스 스파크 최적화로 클라이언트 프레임 레이트 <b>20FPS -> 40FPS</b> 향상
 >  - 클라이언트와 서버 간의 구조를 이해하기 위해 서버 코드에 대한 학습을 진행하여, <b>카운트 다운과 매치 메이킹 프로토콜</b>을 구현하여 서버와의 통신 부분 기여
 
 ---
