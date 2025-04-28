@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaaaabin&count_bg=%23F6C4BA&title_bg=%23F89595&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :pushpin: Intro
 매 순간 몰입과 도전의 자세로 임하며, 누구에게나 필요한 사람이 되고자 하기에 새로운 기술과 트렌드를 익혀 꾸준히 성장하기를 노력하는 개발자 최하빈입니다.
@@ -24,5 +23,3 @@
 
 </br>
 
-## :pushpin: Projects
-[Project 상세 설명](https://github.com/haaaabin/Portfolio)
